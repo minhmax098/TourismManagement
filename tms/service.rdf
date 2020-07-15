@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:countryname="https://localhost:81/composer/countryname#">
+
+<rdf:Description
+rdf:about="https://localhost:81/composer/countryname/13 sản phẩm chăm sóc da tốt nhất">
+    <tbltourpackages:title>Sản phẩm O3 Facial- Tẩy sạch tế bào chết</tbltourpackages:title>
+    <tbltourpackages:author>Việt Nam</tbltourpackages:author>
+    <tbltourpackages:type>Body Beauty</tbltourpackages:type>
+    <tbltourpackages:desc>Chiết xuất từ Camellia Oleifera (trà xanh) giúp cân bằng sắc tố da giảm viêm.
+Salicylic Acid gúp kiểm soát lượng dầu thừa và loại bỏ các tình trạng mụn.
+Methylpropanediol, Butylene Glycol: giúp BHA hoạt động hiệu quả và giảm các tình trạng kích ứng da do dùng BHA.
+Camellia Oleifera (trà xanh): chiết xuất trà xanh kháng viêm và làm dịu da.
+Tẩy sạch da chết một cách nhẹ nhàng, không gây tổn thương cho da.</tbltourpackages:desc>
+</rdf:Description>
